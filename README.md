@@ -1,6 +1,9 @@
 # 👨‍🍳 ChefOnline 👩‍🍳
 ChefOnline je inspirativna web platforma koja spaja ljubitelje kuhanja svih razina vještine, od amatera do profesionalaca. Ovdje možete otkriti nove recepte, sudjelovati u živahnim forum diskusijama, dijeliti svoje kulinarske trikove, te ocjenjivati i komentirati omiljene recepte. Platforma omogućuje i da sačuvate najdraže recepte te da dodate svoje kreacije, čime se potiče druženje i zajedničko uživanje u svijetu kuhanja.
 
+## 🚀 Pregled projekta
+ChefOnline je web aplikacija koja povezuje ljubitelje kuhanja kroz dijeljenje recepata, komentiranje i sudjelovanje u raspravama. Frontend je razvijen u Vue.js s fokusom na interaktivno i korisnički ugodno iskustvo.
+
 # Link za javni prototip 🔗
 https://projekt-web-apps-frontend.vercel.app/
 
