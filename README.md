@@ -2,7 +2,7 @@
 
 ChefOnline is a modern web application designed for cooking enthusiasts of all skill levels. It provides a platform where users can discover recipes, share their own culinary creations, participate in forum discussions, and interact with other users through comments and ratings.
 
-The application is built as a **single-page application (SPA)** using Vue.js and communicates with a backend API and Firebase services for authentication and data management.
+The application is built as a **single-page application (SPA)** using Vue.js and communicates with a backend API and Firebase services for authentication and data management. 
 
 ---
 
